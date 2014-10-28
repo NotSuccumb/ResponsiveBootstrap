@@ -1,0 +1,23 @@
+body {
+  padding: 0;
+  margin: 0; }
+  body header .navbar {
+    margin-bottom: 0; }
+  body footer {
+    padding: 40px 0;
+    margin-top: 20px;
+    text-align: center; }
+    body footer ul {
+      padding-left: 0; }
+      body footer ul li {
+        display: inline;
+        padding: 0 2px; }
+  body .search-panel {
+    background-color: #cccccc;
+    text-align: center; }
+    body .search-panel .input-group {
+      padding: 5px 0; }
+  body main {
+    background-color: #c4e3f3; }
+
+/*# sourceMappingURL=style.css.map */
