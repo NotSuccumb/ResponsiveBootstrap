@@ -30,7 +30,7 @@ body {
     height: 500px;
     padding-top: 190px;
     margin-bottom: 0;
-    background: url("../../images/twitter-header.jpg") no-repeat center;
+    background: url("../images/twitter-header.jpg") no-repeat center;
     text-align: center; }
     body main .jumbotron h1 {
       color: white;
